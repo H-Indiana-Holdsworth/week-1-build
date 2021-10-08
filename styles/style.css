@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../assets/background-image.jpeg);
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    border: 3px solid white;
+    border-radius: 20%;
+}
+
+#random-word {
+    font-style: italic;
+}
+
+#sentence {
+    font-style: italic;
+}
+
+#generate {
+    border-radius: 20%;
+}
